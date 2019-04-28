@@ -9,10 +9,11 @@
       "urls": [
         "/resume/favicon.ico",
         "/resume/index.html",
-        "/resume/main.a3a71cd9362a8726bc3a.js",
+        "/resume/main.8e81711fe2aecad24ff8.js",
         "/resume/polyfills.7037a817a5bb670ed2ca.js",
         "/resume/runtime.ec2944dd8b20ec099bf3.js",
-        "/resume/styles.3bb2a9d4949b7dc120a9.css"
+        "/resume/scripts.1ca48cd9cdd79ee58328.js",
+        "/resume/styles.36a5adfdce34263a5576.css"
       ],
       "patterns": []
     },
@@ -28,7 +29,8 @@
         "/resume/assets/icons/icon-384x384.png",
         "/resume/assets/icons/icon-512x512.png",
         "/resume/assets/icons/icon-72x72.png",
-        "/resume/assets/icons/icon-96x96.png"
+        "/resume/assets/icons/icon-96x96.png",
+        "/resume/assets/mds/resume.md"
       ],
       "patterns": []
     }
@@ -43,12 +45,14 @@
     "/resume/assets/icons/icon-512x512.png": "92d2ff9210202722633b81b85f085f1ca23ac8bf",
     "/resume/assets/icons/icon-72x72.png": "63522f2432a7f95525f0421420fbf83086f493f4",
     "/resume/assets/icons/icon-96x96.png": "6661d7d8a9af8c13baee43b9a1617436c2e5c6db",
+    "/resume/assets/mds/resume.md": "07b5051e8b7f9aa1489de33d0611a9bb5d57679f",
     "/resume/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/resume/index.html": "111cfa7381bde8f7e12fdaa96ccbd887b4b87731",
-    "/resume/main.a3a71cd9362a8726bc3a.js": "b383ecb03b07ce23fdaa81b38625a8edfa4f0a1d",
+    "/resume/index.html": "9669cb137009aa4f90280e2574c8ebb7fdfb38a9",
+    "/resume/main.8e81711fe2aecad24ff8.js": "17c83657502084e1db3974625f94590ef83de585",
     "/resume/polyfills.7037a817a5bb670ed2ca.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "/resume/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/resume/styles.3bb2a9d4949b7dc120a9.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/resume/scripts.1ca48cd9cdd79ee58328.js": "777126d5723687d89876d7c32007d3399dcee54e",
+    "/resume/styles.36a5adfdce34263a5576.css": "7ed349d8590347f7292c5fbd86edda636e9bf97b"
   },
   "navigationUrls": [
     {
